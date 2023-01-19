@@ -1,6 +1,6 @@
 # odin-recipes
 Project: Build a small recipe page!
-Learnings include:
+Learnings include the following:
 - Create a basic file structure
 - Build familiarity with the HTML boilerplate through repetition
 - Build familiarity with basic HTML tags: links, images, lists, and text
